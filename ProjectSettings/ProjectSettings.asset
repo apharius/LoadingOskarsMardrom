@@ -686,7 +686,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 74c98861-0adc-4012-9e64-6fec9c2358c0
-  projectName: Left4Skog
+  projectName: "Oskars Mardr\xF6m"
   organizationId: alexander-rehnman
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
